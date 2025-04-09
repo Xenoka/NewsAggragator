@@ -26,12 +26,7 @@ This project is an AI-powered news aggregator that collects, processes, and deli
 
 ## Getting Started:
 
-(Add instructions here for setting up and running your project. Include details about dependencies, configuration, and running the application.)
-
-## Contributing:
-
-(Add information about how others can contribute to your project. Include guidelines for contributing code, reporting issues, and submitting pull requests.)
+In progress. 
 
 ## License:
-
-(Add license information here.)
+2025 Mahika Shah. All Rights Reserved.
